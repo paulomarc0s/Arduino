@@ -1,5 +1,3 @@
 
 ![Hardware](https://user-images.githubusercontent.com/63813811/102002652-291ae700-3cdd-11eb-8c4b-c85e0db7b028.png)
 
-
-![Presence Sensor](https://user-images.githubusercontent.com/63813811/102002705-e0aff900-3cdd-11eb-830f-284077be212b.png)
